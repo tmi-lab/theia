@@ -1,7 +1,6 @@
 # Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in People Living with Dementia
 
 **Authors:** Antigone Fogel, et al.  
-**Title:** *Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in People Living with Dementia*
 
 ---
 
@@ -25,8 +24,7 @@ This repository includes code, data-processing notebooks, and documentation used
 ## 📂 Repository Contents
 
 ```bash
-├── notebooks/           # Jupyter notebooks for preprocessing, modeling, and evaluation
-├── data/                # Placeholder for input datasets (not included due to privacy)
+├── notebooks/           # Jupyter notebooks for preprocessing, modeling, and evaluation        
 ├── src/                 # Core Python modules used in the project
 ├── models/              # Trained models and configuration files
 ├── figures/             # Figures used in the paper
