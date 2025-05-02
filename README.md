@@ -24,7 +24,7 @@ This repository includes code, data-processing notebooks, and documentation used
 ## 📂 Repository Contents
 
 ```bash
-├── ['notebooks/']()           # Jupyter notebooks for preprocessing, modeling, and evaluation        
+├── ['notebooks/'](./notebooks/)           # Jupyter notebooks for preprocessing, modeling, and evaluation        
 ├── src/                 # Core Python modules used in the project
 ├── models/              # Trained models and configuration files
 ├── figures/             # Figures used in the paper
