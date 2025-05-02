@@ -20,12 +20,11 @@ This repository includes code, data-processing notebooks, and documentation used
 - **Link:** *[Add DOI or arXiv link here]*
 
 ---
-🧮 ['notebooks/'](./notebooks/)
+🧮 ['notebooks/'](./notebooks/) # Jupyter notebooks for preprocessing, modeling, and evaluation
 
 ## 📂 Repository Contents
 
-```bash
-├── 🧮 ['notebooks/'](./notebooks/)           # Jupyter notebooks for preprocessing, modeling, and evaluation        
+```bash                   
 ├── src/                 # Core Python modules used in the project
 ├── models/              # Trained models and configuration files
 ├── figures/             # Figures used in the paper
