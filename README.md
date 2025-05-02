@@ -20,6 +20,7 @@ This repository includes code, data-processing notebooks, and documentation used
 - **Link:** *[Add DOI or arXiv link here]*
 
 ---
+🧮 ['notebooks/'](./notebooks/)
 
 ## 📂 Repository Contents
 
