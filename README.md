@@ -1,6 +1,6 @@
-# Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in People Living with Dementia
+# Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in Alzheimer's Disease and Mild Cognitive Impairment
 
-**Authors:** Antigone Fogel, et al.  
+**Authors:** Antigone Fogel et al.  
 
 ---
 
@@ -15,7 +15,7 @@ This repository includes code, data-processing notebooks, and documentation used
 ## 📄 Paper
 
 - **Title:** Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in People Living with Dementia  
-- **Authors:** Antigone Fogel, et al.  
+- **Authors:** Antigone Fogel et al.  
 - **Publication:** *[Journal name / conference if known]*  
 - **Link:** *[Add DOI or arXiv link here]*
 
