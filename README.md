@@ -1,4 +1,4 @@
-# Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in Alzheimer's Disease and Mild Cognitive Impairment
+# Predicting Rates of Cognitive and Functional Decline in Alzheimer's Disease and Mild Cognitive Impairment
 
 **Authors:** Antigone Fogel et al.  
 
