@@ -25,7 +25,5 @@ This repository includes code, data-processing notebooks, and documentation used
 ## 📂 Repository Contents
 
 ```bash                   
-├── src/                 # Core Python modules used in the project
-├── models/              # Trained models and configuration files
-├── figures/             # Figures used in the paper
+├── notebooks/           # Code used for all analysis
 └── README.md            # This file
