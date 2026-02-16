@@ -17,7 +17,7 @@ This repository includes code, data-processing notebooks, and documentation used
 - **Title:** Theia: A Decision Support Tool to Predict Rates of Cognitive and Functional Decline in People Living with Dementia  
 - **Authors:** Antigone Fogel et al.  
 - **Publication:** *Nature Communications Medicine*  
-- **Link:** *[Add DOI or arXiv link here]*
+- **Link:** *[DOI to be added]*
 
 ---
 🧮 ['notebooks/'](./notebooks/) # Jupyter notebooks for preprocessing, modeling, and evaluation
