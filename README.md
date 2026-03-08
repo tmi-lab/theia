@@ -12,6 +12,8 @@ Sometimes, simple paper‑and‑pencil cognitive and functional tests can outper
 
 This repository includes code, data-processing notebooks, and documentation used in the study.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18910625.svg)](https://doi.org/10.5281/zenodo.18910625)
+
 ---
 
 ## 📄 Paper
